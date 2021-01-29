@@ -1,1 +1,12 @@
 referencias
+
+https://stackoverflow.com/questions/55970148/apply-entity-framework-migrations-when-using-asp-net-core-in-a-docker-image
+http://www.macoratti.net/17/05/aspcore_pgsqlef1.htm3
+https://renatogroffe.medium.com/postgresql-docker-executando-uma-inst%C3%A2ncia-e-o-pgadmin-4-a-partir-de-containers-ad783e85b1a4
+https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/applying?tabs=dotnet-core-cli#apply-migrations-at-runtime
+https://docs.microsoft.com/pt-br/ef/core/modeling/data-seeding
+https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
+
+
+
+https://www.treinaweb.com.br/blog/criando-um-api-gateway-com-asp-net-core-e-ocelot/
